@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Emmanuel Agyen. I am a Data Analyst. I am experienced in data analytics, data science and I have a keen interest in machine learning, deep learning, generative AI and data engineering.
 <!--
 **eoagyen/eoagyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
